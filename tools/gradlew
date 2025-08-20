@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+# Additional shim for CI systems that scan common tool locations.
+REPO_ROOT="$(CDPATH= cd -- "$(dirname "$0")"/.. && pwd)"
+sh "$REPO_ROOT/gradlew" "$@"

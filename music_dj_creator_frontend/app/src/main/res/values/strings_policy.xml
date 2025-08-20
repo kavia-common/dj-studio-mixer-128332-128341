@@ -1,0 +1,5 @@
+<resources>
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="privacy_policy_text">This app processes audio locally on your device. No tracks or mixes are uploaded unless you choose to share them.</string>
+    <string name="notif_permission_dialog">To show playback controls, allow notifications.</string>
+</resources>

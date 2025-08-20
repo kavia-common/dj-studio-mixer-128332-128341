@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_tracks"
+        android:icon="@drawable/ic_bottom_music"
+        android:title="@string/tab_tracks" />
+    <item
+        android:id="@+id/menu_mixer"
+        android:icon="@drawable/ic_bottom_music"
+        android:title="@string/tab_mixer" />
+    <item
+        android:id="@+id/menu_library"
+        android:icon="@drawable/ic_bottom_music"
+        android:title="@string/tab_library" />
+</menu>

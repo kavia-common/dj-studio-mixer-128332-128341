@@ -1,0 +1,9 @@
+# Files that should be executable:
+./gradlew
+./gradlew.sh
+./run-gradle.sh
+./build.sh
+./scripts/gradlew
+./.init/.linter.sh
+./.init/run.sh
+./.init/build_with_module_wrapper.sh

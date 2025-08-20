@@ -1,0 +1,13 @@
+<resources>
+    <!-- Map Material3-like names to our palette for compatibility -->
+    <color name="md_theme_primary">@color/colorPrimary</color>
+    <color name="md_theme_onPrimary">@color/surfaceLight</color>
+    <color name="md_theme_secondary">@color/colorSecondary</color>
+    <color name="md_theme_onSecondary">@color/surfaceLight</color>
+    <color name="md_theme_error">#B00020</color>
+    <color name="md_theme_onError">@color/surfaceLight</color>
+    <color name="md_theme_background">@color/surfaceLight</color>
+    <color name="md_theme_onBackground">@color/onSurface</color>
+    <color name="md_theme_surface">@color/surfaceLight</color>
+    <color name="md_theme_onSurface">@color/onSurface</color>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "dj-studio-mixer",
+  "private": true,
+  "scripts": {
+    "build": "bash ./run-gradle.sh build",
+    "lint": "bash ./run-gradle.sh lint"
+  }
+}

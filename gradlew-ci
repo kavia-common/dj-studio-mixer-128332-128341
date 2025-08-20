@@ -1,0 +1,4 @@
+#!/bin/sh
+# CI shim to call module Gradle wrapper
+REPO_ROOT=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+sh "$REPO_ROOT/gradlew" "$@"

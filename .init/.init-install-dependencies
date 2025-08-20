@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew dependencies",
+    "working_directory": "/home/kavia/workspace/code-generation/dj-studio-mixer-128332-128341/music_dj_creator_frontend"
+}
