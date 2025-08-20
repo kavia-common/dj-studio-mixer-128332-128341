@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.DJStudio.Light" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:navigationBarColor">@color/surfaceLight</item>
+    </style>
+</resources>

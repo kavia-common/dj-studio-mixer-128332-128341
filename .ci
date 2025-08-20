@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+# Generic CI entrypoint that calls the module's Gradle Wrapper via bootstrap.
+sh "$(dirname "$0")/gradle-bootstrap.sh" build

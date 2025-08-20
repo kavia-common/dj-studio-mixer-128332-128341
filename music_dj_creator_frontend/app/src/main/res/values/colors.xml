@@ -1,0 +1,9 @@
+<resources>
+    <color name="colorPrimary">#1DB954</color>
+    <color name="colorPrimaryDark">#169347</color>
+    <color name="colorAccent">#F50057</color>
+    <color name="colorSecondary">#191414</color>
+    <color name="surfaceLight">#FFFFFFFF</color>
+    <color name="onSurface">#FF1A1A1A</color>
+    <color name="chipBg">#FFF1F3F4</color>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="tracks_empty">No tracks yet. Tap + to add music.</string>
+    <string name="mix_saved">Mix saved</string>
+    <string name="mix_save_failed">Failed to save mix</string>
+</resources>

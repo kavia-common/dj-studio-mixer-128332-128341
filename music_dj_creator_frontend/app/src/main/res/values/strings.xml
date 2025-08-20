@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DJ Studio Mixer</string>
+    <string name="tab_tracks">Tracks</string>
+    <string name="tab_mixer">Mixer</string>
+    <string name="tab_library">Library</string>
+    <string name="sign_in">Sign In</string>
+    <string name="continue_guest">Continue as Guest</string>
+    <string name="mix_save">Save Mix</string>
+    <string name="mix_share">Share</string>
+    <string name="add_music">Add Music</string>
+    <string name="add_effect">Add Effect</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="deck_a">Deck A</string>
+    <string name="deck_b">Deck B</string>
+    <string name="crossfader">Crossfader</string>
+    <string name="tempo">Tempo</string>
+    <string name="filter">Filter</string>
+    <string name="echo">Echo</string>
+    <string name="reverb">Reverb</string>
+    <string name="permission_audio_rationale">We need access to audio files to import tracks for mixing.</string>
+    <string name="login_title">Welcome to DJ Studio Mixer</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>

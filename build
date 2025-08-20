@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Conventional CI entrypoint: ./build
+set -euo pipefail
+bash "$(dirname "$0")/gradle-bootstrap.sh" build

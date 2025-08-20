@@ -1,0 +1,3 @@
+<resources>
+    <string name="storage_permission_explain">To import music, allow access to your audio files.</string>
+</resources>

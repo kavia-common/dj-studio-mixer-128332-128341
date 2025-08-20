@@ -1,0 +1,4 @@
+version: 1
+steps:
+  - name: Build Android app
+    run: bash ./gradle-bootstrap.sh build

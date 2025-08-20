@@ -1,0 +1,7 @@
+<resources>
+    <string name="help_title">Tips</string>
+    <string name="help_tip_add_music">• Use the + button to add music to your library.</string>
+    <string name="help_tip_load_decks">• Load tracks onto Deck A or B from the Tracks tab.</string>
+    <string name="help_tip_mixer_controls">• Adjust the crossfader and tempo on the Mixer tab.</string>
+    <string name="help_tip_save_share">• Save and share your mix from the Mixer tab.</string>
+</resources>

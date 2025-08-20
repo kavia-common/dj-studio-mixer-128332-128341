@@ -1,0 +1,2 @@
+Note: In this declarative Gradle sample, release configuration and consumerProguardFiles are managed by the ecosystem plugin defaults.
+This file documents that app/proguard-rules.pro exists and will be picked up if minify is enabled in future.

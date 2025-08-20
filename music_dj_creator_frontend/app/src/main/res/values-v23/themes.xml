@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.DJStudio.Light" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
